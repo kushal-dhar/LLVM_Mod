@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMHexagonInfo.a  CMakeFiles/LLVMHexagonInfo.dir/HexagonTargetInfo.cpp.o
+/bin/ranlib ../../../libLLVMHexagonInfo.a

@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMPowerPCDisassembler.a  CMakeFiles/LLVMPowerPCDisassembler.dir/PPCDisassembler.cpp.o
+/bin/ranlib ../../../libLLVMPowerPCDisassembler.a

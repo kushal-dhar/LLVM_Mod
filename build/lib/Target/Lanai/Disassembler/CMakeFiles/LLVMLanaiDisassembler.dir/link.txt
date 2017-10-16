@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMLanaiDisassembler.a  CMakeFiles/LLVMLanaiDisassembler.dir/LanaiDisassembler.cpp.o
+/bin/ranlib ../../../libLLVMLanaiDisassembler.a

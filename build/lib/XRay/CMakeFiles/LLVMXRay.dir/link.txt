@@ -1,0 +1,2 @@
+/bin/ar qc ../libLLVMXRay.a  CMakeFiles/LLVMXRay.dir/Trace.cpp.o
+/bin/ranlib ../libLLVMXRay.a

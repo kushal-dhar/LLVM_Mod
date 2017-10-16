@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMBPFInfo.a  CMakeFiles/LLVMBPFInfo.dir/BPFTargetInfo.cpp.o
+/bin/ranlib ../../../libLLVMBPFInfo.a

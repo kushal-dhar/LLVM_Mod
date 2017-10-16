@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMSystemZAsmPrinter.a  CMakeFiles/LLVMSystemZAsmPrinter.dir/SystemZInstPrinter.cpp.o
+/bin/ranlib ../../../libLLVMSystemZAsmPrinter.a

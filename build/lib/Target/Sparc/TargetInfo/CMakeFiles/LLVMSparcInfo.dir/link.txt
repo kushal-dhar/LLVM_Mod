@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMSparcInfo.a  CMakeFiles/LLVMSparcInfo.dir/SparcTargetInfo.cpp.o
+/bin/ranlib ../../../libLLVMSparcInfo.a

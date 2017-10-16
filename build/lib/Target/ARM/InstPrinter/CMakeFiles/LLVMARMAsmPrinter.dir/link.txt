@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMARMAsmPrinter.a  CMakeFiles/LLVMARMAsmPrinter.dir/ARMInstPrinter.cpp.o
+/bin/ranlib ../../../libLLVMARMAsmPrinter.a

@@ -1,0 +1,2 @@
+/bin/ar qc ../libLLVMDemangle.a  CMakeFiles/LLVMDemangle.dir/ItaniumDemangle.cpp.o
+/bin/ranlib ../libLLVMDemangle.a

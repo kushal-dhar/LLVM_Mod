@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMNVPTXAsmPrinter.a  CMakeFiles/LLVMNVPTXAsmPrinter.dir/NVPTXInstPrinter.cpp.o
+/bin/ranlib ../../../libLLVMNVPTXAsmPrinter.a

@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMRISCVInfo.a  CMakeFiles/LLVMRISCVInfo.dir/RISCVTargetInfo.cpp.o
+/bin/ranlib ../../../libLLVMRISCVInfo.a

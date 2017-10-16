@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMSparcAsmParser.a  CMakeFiles/LLVMSparcAsmParser.dir/SparcAsmParser.cpp.o
+/bin/ranlib ../../../libLLVMSparcAsmParser.a

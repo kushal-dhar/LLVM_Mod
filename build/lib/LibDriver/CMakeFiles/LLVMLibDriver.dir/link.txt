@@ -1,0 +1,2 @@
+/bin/ar qc ../libLLVMLibDriver.a  CMakeFiles/LLVMLibDriver.dir/LibDriver.cpp.o
+/bin/ranlib ../libLLVMLibDriver.a

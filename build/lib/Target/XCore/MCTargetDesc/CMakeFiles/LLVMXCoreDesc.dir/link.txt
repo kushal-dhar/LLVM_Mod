@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMXCoreDesc.a  CMakeFiles/LLVMXCoreDesc.dir/XCoreMCTargetDesc.cpp.o CMakeFiles/LLVMXCoreDesc.dir/XCoreMCAsmInfo.cpp.o
+/bin/ranlib ../../../libLLVMXCoreDesc.a

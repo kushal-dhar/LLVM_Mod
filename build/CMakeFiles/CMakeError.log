@@ -1,0 +1,1144 @@
+Determining if the include file malloc/malloc.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_dc391/fast"
+/bin/gmake -f CMakeFiles/cmTC_dc391.dir/build.make CMakeFiles/cmTC_dc391.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dc391.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_dc391.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: malloc/malloc.h: No such file or directory
+ #include <malloc/malloc.h>
+                           ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_dc391.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_dc391/fast] Error 2
+
+
+Determining if the include file ndir.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_ef11c/fast"
+/bin/gmake -f CMakeFiles/cmTC_ef11c.dir/build.make CMakeFiles/cmTC_ef11c.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ef11c.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_ef11c.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: ndir.h: No such file or directory
+ #include <ndir.h>
+                  ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_ef11c.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_ef11c/fast] Error 2
+
+
+Determining if the include file sys/ndir.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_a354b/fast"
+/bin/gmake -f CMakeFiles/cmTC_a354b.dir/build.make CMakeFiles/cmTC_a354b.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a354b.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_a354b.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: sys/ndir.h: No such file or directory
+ #include <sys/ndir.h>
+                      ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_a354b.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_a354b/fast] Error 2
+
+
+Determining if the include file valgrind/valgrind.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_3c0a8/fast"
+/bin/gmake -f CMakeFiles/cmTC_3c0a8.dir/build.make CMakeFiles/cmTC_3c0a8.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3c0a8.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_3c0a8.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:31: fatal error: valgrind/valgrind.h: No such file or directory
+ #include <valgrind/valgrind.h>
+                               ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_3c0a8.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_3c0a8/fast] Error 2
+
+
+Determining if the include file mach/mach.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_e1e18/fast"
+/bin/gmake -f CMakeFiles/cmTC_e1e18.dir/build.make CMakeFiles/cmTC_e1e18.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e1e18.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_e1e18.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:23: fatal error: mach/mach.h: No such file or directory
+ #include <mach/mach.h>
+                       ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_e1e18.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_e1e18/fast] Error 2
+
+
+Determining if the include file histedit.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_507e5/fast"
+/bin/gmake -f CMakeFiles/cmTC_507e5.dir/build.make CMakeFiles/cmTC_507e5.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_507e5.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_507e5.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: histedit.h: No such file or directory
+ #include <histedit.h>
+                      ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_507e5.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_507e5/fast] Error 2
+
+
+Determining if the include file CrashReporterClient.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_ec478/fast"
+/bin/gmake -f CMakeFiles/cmTC_ec478.dir/build.make CMakeFiles/cmTC_ec478.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ec478.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_ec478.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:33: fatal error: CrashReporterClient.h: No such file or directory
+ #include <CrashReporterClient.h>
+                                 ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_ec478.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_ec478/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_6911a/fast"
+/bin/gmake -f CMakeFiles/cmTC_6911a.dir/build.make CMakeFiles/cmTC_6911a.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6911a.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_6911a.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_6911a
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6911a.dir/link.txt --verbose=1
+/bin/cc       CMakeFiles/cmTC_6911a.dir/CheckSymbolExists.c.o  -o cmTC_6911a -lm 
+CMakeFiles/cmTC_6911a.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_6911a] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_6911a/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_5960f/fast"
+/bin/gmake -f CMakeFiles/cmTC_5960f.dir/build.make CMakeFiles/cmTC_5960f.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5960f.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_5960f.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5960f
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5960f.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_5960f.dir/CheckFunctionExists.c.o  -o cmTC_5960f -lpthreads -lm 
+/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_5960f] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_5960f/fast] Error 2
+
+
+Determining if the function setupterm exists in the tinfo failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_72ed2/fast"
+/bin/gmake -f CMakeFiles/cmTC_72ed2.dir/build.make CMakeFiles/cmTC_72ed2.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_72ed2.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_72ed2.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_72ed2
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_72ed2.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_72ed2.dir/CheckFunctionExists.c.o  -o cmTC_72ed2 -ltinfo -lm 
+/bin/ld: cannot find -ltinfo
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_72ed2] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_72ed2/fast] Error 2
+
+
+Determining if the function setupterm exists in the terminfo failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_41ec1/fast"
+/bin/gmake -f CMakeFiles/cmTC_41ec1.dir/build.make CMakeFiles/cmTC_41ec1.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_41ec1.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_41ec1.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_41ec1
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41ec1.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_41ec1.dir/CheckFunctionExists.c.o  -o cmTC_41ec1 -lterminfo -lm 
+/bin/ld: cannot find -lterminfo
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_41ec1] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_41ec1/fast] Error 2
+
+
+Determining if the function setupterm exists in the curses failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_66702/fast"
+/bin/gmake -f CMakeFiles/cmTC_66702.dir/build.make CMakeFiles/cmTC_66702.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_66702.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_66702.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_66702
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_66702.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_66702.dir/CheckFunctionExists.c.o  -o cmTC_66702 -lcurses -lm 
+/bin/ld: cannot find -lcurses
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_66702] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_66702/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncurses failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_8de64/fast"
+/bin/gmake -f CMakeFiles/cmTC_8de64.dir/build.make CMakeFiles/cmTC_8de64.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8de64.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_8de64.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8de64
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8de64.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_8de64.dir/CheckFunctionExists.c.o  -o cmTC_8de64 -lncurses -lm 
+/bin/ld: cannot find -lncurses
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_8de64] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_8de64/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncursesw failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_06818/fast"
+/bin/gmake -f CMakeFiles/cmTC_06818.dir/build.make CMakeFiles/cmTC_06818.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_06818.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_06818.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_06818
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06818.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_06818.dir/CheckFunctionExists.c.o  -o cmTC_06818 -lncursesw -lm 
+/bin/ld: cannot find -lncursesw
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_06818] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_06818/fast] Error 2
+
+
+Determining if the function xar_open exists in the xar failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_1994a/fast"
+/bin/gmake -f CMakeFiles/cmTC_1994a.dir/build.make CMakeFiles/cmTC_1994a.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1994a.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=xar_open   -o CMakeFiles/cmTC_1994a.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1994a
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1994a.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=xar_open    CMakeFiles/cmTC_1994a.dir/CheckFunctionExists.c.o  -o cmTC_1994a -lxar -lm 
+/bin/ld: cannot find -lxar
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_1994a] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_1994a/fast] Error 2
+
+
+Determining if the arc4random exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_6376f/fast"
+/bin/gmake -f CMakeFiles/cmTC_6376f.dir/build.make CMakeFiles/cmTC_6376f.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6376f.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_6376f.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'arc4random' undeclared (first use in this function)
+   return ((int*)(&arc4random))[argc];
+                   ^
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+gmake[1]: *** [CMakeFiles/cmTC_6376f.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_6376f/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random
+  return ((int*)(&arc4random))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the mallctl exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_8346a/fast"
+/bin/gmake -f CMakeFiles/cmTC_8346a.dir/build.make CMakeFiles/cmTC_8346a.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8346a.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_8346a.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:23: fatal error: malloc_np.h: No such file or directory
+ #include <malloc_np.h>
+                       ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_8346a.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_8346a/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc_np.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mallctl
+  return ((int*)(&mallctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the malloc_zone_statistics exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_fccf0/fast"
+/bin/gmake -f CMakeFiles/cmTC_fccf0.dir/build.make CMakeFiles/cmTC_fccf0.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fccf0.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_fccf0.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:27: fatal error: malloc/malloc.h: No such file or directory
+ #include <malloc/malloc.h>
+                           ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_fccf0.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_fccf0/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc/malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef malloc_zone_statistics
+  return ((int*)(&malloc_zone_statistics))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strerror_s exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_6b838/fast"
+/bin/gmake -f CMakeFiles/cmTC_6b838.dir/build.make CMakeFiles/cmTC_6b838.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6b838.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_6b838.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'strerror_s' undeclared (first use in this function)
+   return ((int*)(&strerror_s))[argc];
+                   ^
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+gmake[1]: *** [CMakeFiles/cmTC_6b838.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_6b838/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror_s
+  return ((int*)(&strerror_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C++ SOURCE FILE Test SUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_6ef0b/fast"
+/bin/gmake -f CMakeFiles/cmTC_6ef0b.dir/build.make CMakeFiles/cmTC_6ef0b.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6ef0b.dir/src.cxx.o
+/bin/c++     -DSUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG   -Wgnu-zero-variadic-macro-arguments -o CMakeFiles/cmTC_6ef0b.dir/src.cxx.o -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wgnu-zero-variadic-macro-arguments'
+gmake[1]: *** [CMakeFiles/cmTC_6ef0b.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_6ef0b/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Determining if the include file malloc/malloc.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_caf0e/fast"
+/bin/gmake -f CMakeFiles/cmTC_caf0e.dir/build.make CMakeFiles/cmTC_caf0e.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_caf0e.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_caf0e.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: malloc/malloc.h: No such file or directory
+ #include <malloc/malloc.h>
+                           ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_caf0e.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_caf0e/fast] Error 2
+
+
+Determining if the include file ndir.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_2c3c0/fast"
+/bin/gmake -f CMakeFiles/cmTC_2c3c0.dir/build.make CMakeFiles/cmTC_2c3c0.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2c3c0.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_2c3c0.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: ndir.h: No such file or directory
+ #include <ndir.h>
+                  ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_2c3c0.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_2c3c0/fast] Error 2
+
+
+Determining if the include file sys/ndir.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_8d6fa/fast"
+/bin/gmake -f CMakeFiles/cmTC_8d6fa.dir/build.make CMakeFiles/cmTC_8d6fa.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8d6fa.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_8d6fa.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: sys/ndir.h: No such file or directory
+ #include <sys/ndir.h>
+                      ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_8d6fa.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_8d6fa/fast] Error 2
+
+
+Determining if the include file valgrind/valgrind.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_403c9/fast"
+/bin/gmake -f CMakeFiles/cmTC_403c9.dir/build.make CMakeFiles/cmTC_403c9.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_403c9.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_403c9.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:31: fatal error: valgrind/valgrind.h: No such file or directory
+ #include <valgrind/valgrind.h>
+                               ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_403c9.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_403c9/fast] Error 2
+
+
+Determining if the include file mach/mach.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_7ffc3/fast"
+/bin/gmake -f CMakeFiles/cmTC_7ffc3.dir/build.make CMakeFiles/cmTC_7ffc3.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7ffc3.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_7ffc3.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:23: fatal error: mach/mach.h: No such file or directory
+ #include <mach/mach.h>
+                       ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_7ffc3.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_7ffc3/fast] Error 2
+
+
+Determining if the include file histedit.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_a4c70/fast"
+/bin/gmake -f CMakeFiles/cmTC_a4c70.dir/build.make CMakeFiles/cmTC_a4c70.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a4c70.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_a4c70.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: histedit.h: No such file or directory
+ #include <histedit.h>
+                      ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_a4c70.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_a4c70/fast] Error 2
+
+
+Determining if the include file CrashReporterClient.h exists failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_e71ac/fast"
+/bin/gmake -f CMakeFiles/cmTC_e71ac.dir/build.make CMakeFiles/cmTC_e71ac.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e71ac.dir/CheckIncludeFile.c.o
+/bin/cc     -o CMakeFiles/cmTC_e71ac.dir/CheckIncludeFile.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:33: fatal error: CrashReporterClient.h: No such file or directory
+ #include <CrashReporterClient.h>
+                                 ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_e71ac.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_e71ac/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_249cf/fast"
+/bin/gmake -f CMakeFiles/cmTC_249cf.dir/build.make CMakeFiles/cmTC_249cf.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_249cf.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_249cf.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_249cf
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_249cf.dir/link.txt --verbose=1
+/bin/cc       CMakeFiles/cmTC_249cf.dir/CheckSymbolExists.c.o  -o cmTC_249cf -lm 
+CMakeFiles/cmTC_249cf.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_249cf] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_249cf/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_275d2/fast"
+/bin/gmake -f CMakeFiles/cmTC_275d2.dir/build.make CMakeFiles/cmTC_275d2.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_275d2.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_275d2.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_275d2
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_275d2.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_275d2.dir/CheckFunctionExists.c.o  -o cmTC_275d2 -lpthreads -lm 
+/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_275d2] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_275d2/fast] Error 2
+
+
+Determining if the function setupterm exists in the tinfo failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_84b6e/fast"
+/bin/gmake -f CMakeFiles/cmTC_84b6e.dir/build.make CMakeFiles/cmTC_84b6e.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_84b6e.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_84b6e.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_84b6e
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_84b6e.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_84b6e.dir/CheckFunctionExists.c.o  -o cmTC_84b6e -ltinfo -lm 
+/bin/ld: cannot find -ltinfo
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_84b6e] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_84b6e/fast] Error 2
+
+
+Determining if the function setupterm exists in the terminfo failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_984a6/fast"
+/bin/gmake -f CMakeFiles/cmTC_984a6.dir/build.make CMakeFiles/cmTC_984a6.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_984a6.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_984a6.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_984a6
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_984a6.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_984a6.dir/CheckFunctionExists.c.o  -o cmTC_984a6 -lterminfo -lm 
+/bin/ld: cannot find -lterminfo
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_984a6] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_984a6/fast] Error 2
+
+
+Determining if the function setupterm exists in the curses failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_3ed2e/fast"
+/bin/gmake -f CMakeFiles/cmTC_3ed2e.dir/build.make CMakeFiles/cmTC_3ed2e.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3ed2e.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_3ed2e.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_3ed2e
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3ed2e.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_3ed2e.dir/CheckFunctionExists.c.o  -o cmTC_3ed2e -lcurses -lm 
+/bin/ld: cannot find -lcurses
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_3ed2e] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_3ed2e/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncurses failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_42c3f/fast"
+/bin/gmake -f CMakeFiles/cmTC_42c3f.dir/build.make CMakeFiles/cmTC_42c3f.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_42c3f.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_42c3f.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_42c3f
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_42c3f.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_42c3f.dir/CheckFunctionExists.c.o  -o cmTC_42c3f -lncurses -lm 
+/bin/ld: cannot find -lncurses
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_42c3f] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_42c3f/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncursesw failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_ccc37/fast"
+/bin/gmake -f CMakeFiles/cmTC_ccc37.dir/build.make CMakeFiles/cmTC_ccc37.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ccc37.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_ccc37.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ccc37
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ccc37.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_ccc37.dir/CheckFunctionExists.c.o  -o cmTC_ccc37 -lncursesw -lm 
+/bin/ld: cannot find -lncursesw
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_ccc37] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_ccc37/fast] Error 2
+
+
+Determining if the function xar_open exists in the xar failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_656aa/fast"
+/bin/gmake -f CMakeFiles/cmTC_656aa.dir/build.make CMakeFiles/cmTC_656aa.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_656aa.dir/CheckFunctionExists.c.o
+/bin/cc    -DCHECK_FUNCTION_EXISTS=xar_open   -o CMakeFiles/cmTC_656aa.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_656aa
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_656aa.dir/link.txt --verbose=1
+/bin/cc   -DCHECK_FUNCTION_EXISTS=xar_open    CMakeFiles/cmTC_656aa.dir/CheckFunctionExists.c.o  -o cmTC_656aa -lxar -lm 
+/bin/ld: cannot find -lxar
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_656aa] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_656aa/fast] Error 2
+
+
+Determining if the arc4random exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_f7ddf/fast"
+/bin/gmake -f CMakeFiles/cmTC_f7ddf.dir/build.make CMakeFiles/cmTC_f7ddf.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f7ddf.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_f7ddf.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'arc4random' undeclared (first use in this function)
+   return ((int*)(&arc4random))[argc];
+                   ^
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+gmake[1]: *** [CMakeFiles/cmTC_f7ddf.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_f7ddf/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random
+  return ((int*)(&arc4random))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the mallctl exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_f3b2b/fast"
+/bin/gmake -f CMakeFiles/cmTC_f3b2b.dir/build.make CMakeFiles/cmTC_f3b2b.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f3b2b.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_f3b2b.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:23: fatal error: malloc_np.h: No such file or directory
+ #include <malloc_np.h>
+                       ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_f3b2b.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_f3b2b/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc_np.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mallctl
+  return ((int*)(&mallctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the malloc_zone_statistics exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_c741a/fast"
+/bin/gmake -f CMakeFiles/cmTC_c741a.dir/build.make CMakeFiles/cmTC_c741a.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c741a.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_c741a.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:27: fatal error: malloc/malloc.h: No such file or directory
+ #include <malloc/malloc.h>
+                           ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_c741a.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_c741a/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc/malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef malloc_zone_statistics
+  return ((int*)(&malloc_zone_statistics))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strerror_s exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_445bb/fast"
+/bin/gmake -f CMakeFiles/cmTC_445bb.dir/build.make CMakeFiles/cmTC_445bb.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_445bb.dir/CheckSymbolExists.c.o
+/bin/cc     -o CMakeFiles/cmTC_445bb.dir/CheckSymbolExists.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'strerror_s' undeclared (first use in this function)
+   return ((int*)(&strerror_s))[argc];
+                   ^
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+gmake[1]: *** [CMakeFiles/cmTC_445bb.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_445bb/fast] Error 2
+
+File /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror_s
+  return ((int*)(&strerror_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C++ SOURCE FILE Test SUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_85b6f/fast"
+/bin/gmake -f CMakeFiles/cmTC_85b6f.dir/build.make CMakeFiles/cmTC_85b6f.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_85b6f.dir/src.cxx.o
+/bin/c++     -DSUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG   -Wgnu-zero-variadic-macro-arguments -o CMakeFiles/cmTC_85b6f.dir/src.cxx.o -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wgnu-zero-variadic-macro-arguments'
+gmake[1]: *** [CMakeFiles/cmTC_85b6f.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_85b6f/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_74e3b/fast"
+/bin/gmake -f CMakeFiles/cmTC_74e3b.dir/build.make CMakeFiles/cmTC_74e3b.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_74e3b.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_74e3b.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wcovered-switch-default'
+gmake[1]: *** [CMakeFiles/cmTC_74e3b.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_74e3b/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_0c515/fast"
+/bin/gmake -f CMakeFiles/cmTC_0c515.dir/build.make CMakeFiles/cmTC_0c515.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0c515.dir/src.cxx.o
+/bin/c++     -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -DCXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_0c515.dir/src.cxx.o -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wcovered-switch-default'
+gmake[1]: *** [CMakeFiles/cmTC_0c515.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_0c515/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_bce2b/fast"
+/bin/gmake -f CMakeFiles/cmTC_bce2b.dir/build.make CMakeFiles/cmTC_bce2b.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bce2b.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG   -Werror -Wdelete-non-virtual-dtor -o CMakeFiles/cmTC_bce2b.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc1: error: command line option '-Wdelete-non-virtual-dtor' is valid for C++/ObjC++ but not for C [-Werror]
+cc1: all warnings being treated as errors
+gmake[1]: *** [CMakeFiles/cmTC_bce2b.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_bce2b/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WCOMMENT_ALLOWS_LINE_WRAP failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_1138d/fast"
+/bin/gmake -f CMakeFiles/cmTC_1138d.dir/build.make CMakeFiles/cmTC_1138d.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1138d.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_WCOMMENT_ALLOWS_LINE_WRAP  -Werror -Wcomment   -o CMakeFiles/cmTC_1138d.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c:1:1: error: C++ style comments are not allowed in ISO C90 [-Werror]
+ // \
+ ^
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c:1:1: error: (this will be reported only once per input file) [-Werror]
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c:1:1: error: multi-line comment [-Werror=comment]
+cc1: all warnings being treated as errors
+gmake[1]: *** [CMakeFiles/cmTC_1138d.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_1138d/fast] Error 2
+
+Source file was:
+// \
+//
+int main() {return 0;}
+Performing C SOURCE FILE Test C_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_f61cb/fast"
+/bin/gmake -f CMakeFiles/cmTC_f61cb.dir/build.make CMakeFiles/cmTC_f61cb.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f61cb.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -DC_SUPPORTS_STRING_CONVERSION_FLAG   -Werror -Wstring-conversion -o CMakeFiles/cmTC_f61cb.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wstring-conversion'
+gmake[1]: *** [CMakeFiles/cmTC_f61cb.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_f61cb/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_8291d/fast"
+/bin/gmake -f CMakeFiles/cmTC_8291d.dir/build.make CMakeFiles/cmTC_8291d.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8291d.dir/src.cxx.o
+/bin/c++     -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -DCXX_SUPPORTS_STRING_CONVERSION_FLAG   -Werror -Wstring-conversion -o CMakeFiles/cmTC_8291d.dir/src.cxx.o -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wstring-conversion'
+gmake[1]: *** [CMakeFiles/cmTC_8291d.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_8291d/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_8f3b0/fast"
+/bin/gmake -f CMakeFiles/cmTC_8f3b0.dir/build.make CMakeFiles/cmTC_8f3b0.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8f3b0.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -DC_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_8f3b0.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc1: error: -Werror=date-time: no option -Wdate-time
+gmake[1]: *** [CMakeFiles/cmTC_8f3b0.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_8f3b0/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_f7805/fast"
+/bin/gmake -f CMakeFiles/cmTC_f7805.dir/build.make CMakeFiles/cmTC_f7805.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f7805.dir/src.cxx.o
+/bin/c++     -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -DCXX_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_f7805.dir/src.cxx.o -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: -Werror=date-time: no option -Wdate-time
+gmake[1]: *** [CMakeFiles/cmTC_f7805.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_f7805/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_UNUSED_LOCAL_TYPEDEF_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_1eba3/fast"
+/bin/gmake -f CMakeFiles/cmTC_1eba3.dir/build.make CMakeFiles/cmTC_1eba3.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1eba3.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_UNUSED_LOCAL_TYPEDEF_FLAG   -Wunused-local-typedef -o CMakeFiles/cmTC_1eba3.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wunused-local-typedef'
+gmake[1]: *** [CMakeFiles/cmTC_1eba3.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_1eba3/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_38140/fast"
+/bin/gmake -f CMakeFiles/cmTC_38140.dir/build.make CMakeFiles/cmTC_38140.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_38140.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_COVERED_SWITCH_DEFAULT_FLAG   -Wcovered-switch-default -o CMakeFiles/cmTC_38140.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wcovered-switch-default'
+gmake[1]: *** [CMakeFiles/cmTC_38140.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_38140/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_DEPRECATED_REGISTER_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_3e275/fast"
+/bin/gmake -f CMakeFiles/cmTC_3e275.dir/build.make CMakeFiles/cmTC_3e275.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3e275.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_DEPRECATED_REGISTER_FLAG   -Wdeprecated-register -o CMakeFiles/cmTC_3e275.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wdeprecated-register'
+gmake[1]: *** [CMakeFiles/cmTC_3e275.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_3e275/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_GNU_ANONYMOUS_STRUCT_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_fcf56/fast"
+/bin/gmake -f CMakeFiles/cmTC_fcf56.dir/build.make CMakeFiles/cmTC_fcf56.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fcf56.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_GNU_ANONYMOUS_STRUCT_FLAG   -Wgnu-anonymous-struct -o CMakeFiles/cmTC_fcf56.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wgnu-anonymous-struct'
+gmake[1]: *** [CMakeFiles/cmTC_fcf56.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_fcf56/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_SELF_ASSIGN_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_810b0/fast"
+/bin/gmake -f CMakeFiles/cmTC_810b0.dir/build.make CMakeFiles/cmTC_810b0.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_810b0.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_SELF_ASSIGN_FLAG   -Wself-assign -o CMakeFiles/cmTC_810b0.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wself-assign'
+gmake[1]: *** [CMakeFiles/cmTC_810b0.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_810b0/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_VLA_EXTENSION_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_74288/fast"
+/bin/gmake -f CMakeFiles/cmTC_74288.dir/build.make CMakeFiles/cmTC_74288.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_74288.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_VLA_EXTENSION_FLAG   -Wvla-extension -o CMakeFiles/cmTC_74288.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wvla-extension'
+gmake[1]: *** [CMakeFiles/cmTC_74288.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_74288/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_FORMAT_PEDANTIC_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_67392/fast"
+/bin/gmake -f CMakeFiles/cmTC_67392.dir/build.make CMakeFiles/cmTC_67392.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_67392.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_FORMAT_PEDANTIC_FLAG   -Wformat-pedantic -o CMakeFiles/cmTC_67392.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wformat-pedantic'
+gmake[1]: *** [CMakeFiles/cmTC_67392.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_67392/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_MMIC_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_69866/fast"
+/bin/gmake -f CMakeFiles/cmTC_69866.dir/build.make CMakeFiles/cmTC_69866.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_69866.dir/src.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_MMIC_FLAG -mmic   -mmic -o CMakeFiles/cmTC_69866.dir/src.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-mmic'
+cc: error: unrecognized command line option '-mmic'
+gmake[1]: *** [CMakeFiles/cmTC_69866.dir/src.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_69866/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Determining if files windows.h;psapi.h exist failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_9c906/fast"
+/bin/gmake -f CMakeFiles/cmTC_9c906.dir/build.make CMakeFiles/cmTC_9c906.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9c906.dir/CheckIncludeFiles.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections    -o CMakeFiles/cmTC_9c906.dir/CheckIncludeFiles.c.o   -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:2:21: fatal error: windows.h: No such file or directory
+ #include <windows.h>
+                     ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_9c906.dir/CheckIncludeFiles.c.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_9c906/fast] Error 2
+
+Source:
+/* */
+#include <windows.h>
+#include <psapi.h>
+
+
+int main(void){return 0;}
+
+Determining if the function EnumProcessModules exists in the psapi failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_5d90f/fast"
+/bin/gmake -f CMakeFiles/cmTC_5d90f.dir/build.make CMakeFiles/cmTC_5d90f.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5d90f.dir/CheckFunctionExists.c.o
+/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DCHECK_FUNCTION_EXISTS=EnumProcessModules   -o CMakeFiles/cmTC_5d90f.dir/CheckFunctionExists.c.o   -c /gpfs/software/cmake-3.5.1/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5d90f
+/gpfs/software/cmake-3.5.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5d90f.dir/link.txt --verbose=1
+/bin/cc   -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DCHECK_FUNCTION_EXISTS=EnumProcessModules    CMakeFiles/cmTC_5d90f.dir/CheckFunctionExists.c.o  -o cmTC_5d90f -rdynamic -lpsapi -lm 
+/bin/ld: cannot find -lpsapi
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_5d90f] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_5d90f/fast] Error 2
+
+
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG failed with the following output:
+Change Dir: /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/gmake" "cmTC_a359e/fast"
+/bin/gmake -f CMakeFiles/cmTC_a359e.dir/build.make CMakeFiles/cmTC_a359e.dir/build
+gmake[1]: Entering directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a359e.dir/src.cxx.o
+/bin/c++     -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -std=c++11 -ffunction-sections -fdata-sections -fno-common -Woverloaded-virtual -fno-strict-aliasing -DCXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG   -Werror -Wnested-anon-types -o CMakeFiles/cmTC_a359e.dir/src.cxx.o -c /gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wnested-anon-types'
+gmake[1]: *** [CMakeFiles/cmTC_a359e.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory `/gpfs/home/kdhar/llvm/llvm/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_a359e/fast] Error 2
+
+Source file was:
+int main() { return 0; }

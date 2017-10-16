@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMLanaiInstPrinter.a  CMakeFiles/LLVMLanaiInstPrinter.dir/LanaiInstPrinter.cpp.o
+/bin/ranlib ../../../libLLVMLanaiInstPrinter.a

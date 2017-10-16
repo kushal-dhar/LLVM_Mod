@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMBPFAsmPrinter.a  CMakeFiles/LLVMBPFAsmPrinter.dir/BPFInstPrinter.cpp.o
+/bin/ranlib ../../../libLLVMBPFAsmPrinter.a

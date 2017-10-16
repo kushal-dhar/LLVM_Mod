@@ -1,0 +1,2 @@
+/bin/ar qc ../../../libLLVMBPFDisassembler.a  CMakeFiles/LLVMBPFDisassembler.dir/BPFDisassembler.cpp.o
+/bin/ranlib ../../../libLLVMBPFDisassembler.a
